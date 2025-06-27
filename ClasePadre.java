@@ -1,6 +1,8 @@
 public class ClasePadre {
   private int campo1;
   public int campo2;
+  private double x;
+  private double y;
 
   public void setDatos(int campo1){
     this.campo1 = 12;
